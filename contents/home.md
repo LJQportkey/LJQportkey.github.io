@@ -8,7 +8,7 @@ She is currently pursuing a Master's Degree in Financial Technology, at School o
 sli[at]1951850051@qq.com
 
 #### Education
- Finance, Xiamen University, 2020—2024 (expected).\
+ Finance, Xiamen University, 2020—2024.\
  Financial Technology, DongbeiUniversity of Finance and Economics,2024—.
 
 #### Research Interests
