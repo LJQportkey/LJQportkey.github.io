@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![LJQportkey](https://img.shields.io/badge/LJQportkey-github-blue?logo=github)](https://github.com/LJQportkey)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She is currently pursuing a Master's Degree in Financial Technology, at School of DongbeiUniversity of Finance and Economics, China.
 
 #### Email
-sli[at]cumt.edu.cn
+sli[at]1951850051@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+ Finance, Xiamen University, 2020—2024 (expected).\
+ Financial Technology, DongbeiUniversity of Finance and Economics,2024—.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Behavioral Economics, Corporate Finance.etc
 
