@@ -1,1 +1,1 @@
-- <strong>李嘉琪</strong>, 郄瀚洋.我国商业银行经营模式研究热点与前沿：基于CiteSpace的知识图谱分析[J].河北金融,2024,(12):41-49.DOI:10.14049/j.cnki.hbjr.2024.12.008.
+- <strong>Jiaqi Li</strong>, Hanyang Qie. Research Hotspots and Emerging Trends in Chinese Commercial Banks’ Business Models: A Knowledge Graph Analysis Using CiteSpace
