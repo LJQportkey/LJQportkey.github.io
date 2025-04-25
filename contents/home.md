@@ -5,7 +5,7 @@
 She is currently pursuing a Master's Degree in Financial Technology, at School of DongbeiUniversity of Finance and Economics, China.
 
 #### Email
-sli[at]1951850051@qq.com
+1951850051@qq.com
 
 #### Phone Number
 18533109508
